@@ -1,11 +1,11 @@
 {
     "offsets":
     {
-        "uworld": "0x169641B8",
+        "uworld": "",
             "relativelocation" : "0x138",
             "owningworld" : "0xC0",
             "acknowledgedpawn" : "0x350",
-            "mesh" : "0x320",
+            "mesh" : "0x328",
             "rootcomponent" : "0x1B0",
             "localplayers" : "0x38",
             "playercontroller" : "0x30",
